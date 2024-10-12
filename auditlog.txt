@@ -1,0 +1,24 @@
+2024-10-11 22:08:38 - Actualización en Base de datos: Actualizado DPI: 30018422321, N. Primero: Roto -> R, N. Segundo: Carlos -> C, A. Primero: Coc -> C, A. Segundo: García -> G, Dirección: Calle Falsa 123 -> Calle, Teléfono Casa: 5551234 -> 55
+2024-10-11 22:14:47 - Actualización en MySQL: Actualizado DPI: 6727272727, N. Segundo: marlon -> marcos
+2024-10-11 22:15:16 - Actualización en PostgreSQL: Actualizado DPI: 7683736717   , N. Segundo:  -> venegas
+2024-10-11 22:18:56 - Inserción en MySQL: Registro insertado con DPI: 300012212
+2024-10-11 22:20:48 - Eliminación en MySQL: Registro eliminado con DPI: 445553333
+2024-10-11 22:50:04 - Actualización en MySQL: Actualizado DPI: 6727272727, N. Primero: Manolo -> marcos
+2024-10-11 22:50:14 - Eliminación en MySQL: Registro eliminado con DPI: 7683736717
+2024-10-11 22:50:38 - Inserción en MySQL: Registro insertado con DPI: carlos
+2024-10-11 22:55:01 - Actualización en MySQL: Actualizado DPI: 444433333, N. Primero: Arabella -> Ara
+2024-10-11 22:55:04 - Insertar en PostgreSQL: DPI: 300012212
+2024-10-11 22:55:04 - Insertar en PostgreSQL: DPI: 30018422321
+2024-10-11 22:55:04 - Insertar en PostgreSQL: DPI: 3001842312321
+2024-10-11 22:55:04 - Insertar en PostgreSQL: DPI: 6727272727
+2024-10-11 22:55:04 - Insertar en PostgreSQL: DPI: 8738928283
+2024-10-11 22:55:04 - Insertar en PostgreSQL: DPI: 875434838438
+2024-10-11 22:55:04 - Insertar en PostgreSQL: DPI: 88888888888
+2024-10-11 22:55:04 - Insertar en PostgreSQL: DPI: 89383832
+2024-10-11 22:55:04 - Insertar en PostgreSQL: DPI: carlos
+2024-10-11 22:55:48 - Actualización en PostgreSQL: Actualizado DPI: 30018422321  , N. Primero: R -> Rsadsadsa
+2024-10-11 22:56:25 - Actualización en MySQL: Actualizado DPI: 300012212, N. Primero: Jorge -> Jorgeches
+2024-10-11 22:58:14 - Actualización en PostgreSQL: Actualizado DPI: 9939839393   , N. Segundo: daniel -> danieldfsf
+2024-10-11 23:10:33 - Actualización en MySQL: Actualizado DPI: 300033322, N. Primero: Marco -> melvin, N. Segundo: mal -> marlon, A. Primero: tuc -> tecun, A. Segundo: qwe -> Salas, Dirección: mx -> 5ta av 10-20, Teléfono Casa: 303030 -> 30303120
+2024-10-11 23:12:43 - Eliminación en MySQL: Registro eliminado con DPI: 30018422321
+2024-10-11 23:14:36 - Inserción en MySQL: Registro insertado con DPI: 32432424324
